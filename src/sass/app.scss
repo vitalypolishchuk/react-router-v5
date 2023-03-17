@@ -1,0 +1,24 @@
+.link-container {
+  display: flex;
+}
+.link {
+  font-size: 1.3rem;
+  margin-right: 2rem;
+  list-style-type: none;
+}
+
+.product {
+  height: 200px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.prod-img-container {
+  height: 150px;
+}
+
+.prod-img {
+  width: 200px;
+}
